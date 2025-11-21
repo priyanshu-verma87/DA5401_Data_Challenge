@@ -115,5 +115,4 @@ Predicted scores were centered around 4.8 and showed a Gaussian-like distributio
 - Performance reflects significant learning but leaves room for improvement.
 
 
-### Required Packages
 
